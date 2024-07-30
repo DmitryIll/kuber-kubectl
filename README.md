@@ -78,6 +78,11 @@
 
 ![alt text](image.png)
 
+Через терраформ создал две ВМ - одну для microk8s другую для kubectl для управления удаленно.
+
+![alt text](image-29.png)
+
+
 2. Установить dashboard.
 
 
